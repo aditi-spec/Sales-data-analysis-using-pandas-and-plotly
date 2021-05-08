@@ -4,7 +4,8 @@ Steps to be done-
 2. explore dataset
 2. data preparation and analysis
 3. further deep dive and visualization
-🚩 TASKS:
+
+TASKS:
     a. What was the highest Sale in 2020?
     b. What is average discount rate of charis?
     c. Add extra columns to seperate Year & Month from the Order Date
